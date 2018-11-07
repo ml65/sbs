@@ -1,9 +1,6 @@
 {
     "name": "sbservice/oauth2",
     "description": "SBS oauth2 lib",
-    "require": {
-        "slim/slim": "^3.11"
-    },
     "license": "MIT",
     "authors": [
         {
